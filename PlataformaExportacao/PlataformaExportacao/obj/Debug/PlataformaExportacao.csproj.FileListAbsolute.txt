@@ -1,0 +1,9 @@
+c:\users\frazeal\source\repos\PlataformaExportacao\PlataformaExportacao\obj\Debug\PlataformaExportacao.csprojResolveAssemblyReference.cache
+c:\users\frazeal\source\repos\PlataformaExportacao\PlataformaExportacao\obj\Debug\PlataformaExportacao.csproj.CoreCompileInputs.cache
+c:\users\frazeal\source\repos\PlataformaExportacao\PlataformaExportacao\bin\Debug\PlataformaExportacao.exe.config
+c:\users\frazeal\source\repos\PlataformaExportacao\PlataformaExportacao\bin\Debug\PlataformaExportacao.exe
+c:\users\frazeal\source\repos\PlataformaExportacao\PlataformaExportacao\bin\Debug\PlataformaExportacao.pdb
+c:\users\frazeal\source\repos\PlataformaExportacao\PlataformaExportacao\obj\Debug\PlataformaExportacao.exe
+c:\users\frazeal\source\repos\PlataformaExportacao\PlataformaExportacao\obj\Debug\PlataformaExportacao.pdb
+c:\users\frazeal\source\repos\PlataformaExportacao\PlataformaExportacao\bin\Debug\DataBase.mdf
+c:\users\frazeal\source\repos\PlataformaExportacao\PlataformaExportacao\bin\Debug\DataBase_log.ldf
